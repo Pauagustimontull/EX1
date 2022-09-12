@@ -5,6 +5,7 @@ public class Ejercicio1 {
 		// TODO Auto-generated method stub
 
 		System.out.println("--------Primera edicion---------");
+		System.out.println("--------Segunda edicion---------");
 		
 		
 	}
